@@ -1,5 +1,6 @@
 <? xml version="1.0" encoding="UTF-8?">
  <sistema solar>
+  <estrella tipo="G">Sol</estrella>
    <planetas>
      <planetas nanos>
       <planeta>Eris</planeta>
@@ -21,16 +22,16 @@
    <satelites tipo="naturales">
      <satelite planeta="tierra">luna</satelite>
      <satelite planeta="marte">deimo</satelite>
-     <satelite planeta="jupiter">aitné</satelite>
+     <satelite planeta="jupiter">aitnÃ©</satelite>
      <satelite planeta="saturno">atlas</satelite>
      <satelite planeta="urano">cordelia</satelite>
      <satelite planeta="neptuno">larisa</satelite>
      <satelite planeta="pluton">hidra</satelite>
     </satelites>
-	<cuerpos pequeños>
+	<cuerpos pequeÃ±os>
 	  </asteriodes>
 	  </cometas>
 	  </estrellas fugaces>
 	  </meteoritos>
-	 </cuerpos pequeños>
+	 </cuerpos pequeÃ±os>
 	 </sistema solar>
